@@ -36,6 +36,7 @@ Memory Game
 <img src="http://i.imgur.com/oD2Xg4X.png"/>
 
 Доколку изгубите се појавува овој прозорец:
+
 <img src="http://i.imgur.com/pnMcWoH.png"/>
 
 Правила на играта:                                                                                                       
