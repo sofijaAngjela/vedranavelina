@@ -1,0 +1,53 @@
+C:\Users\Јована\AppData\Local\Temporary Projects\Memory\bin\Debug\Memory.exe
+C:\Users\Јована\AppData\Local\Temporary Projects\Memory\bin\Debug\Memory.pdb
+C:\Users\Јована\AppData\Local\Temporary Projects\Memory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Јована\AppData\Local\Temporary Projects\Memory\obj\x86\Debug\Memory.Form1.resources
+C:\Users\Јована\AppData\Local\Temporary Projects\Memory\obj\x86\Debug\Memory.Properties.Resources.resources
+C:\Users\Јована\AppData\Local\Temporary Projects\Memory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Јована\AppData\Local\Temporary Projects\Memory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Јована\AppData\Local\Temporary Projects\Memory\obj\x86\Debug\Memory.exe
+C:\Users\Јована\AppData\Local\Temporary Projects\Memory\obj\x86\Debug\Memory.pdb
+C:\Users\Јована\Music\Desktop\Vizuelno\Memory\Memory\obj\x86\Debug\Memory.exe
+C:\Users\Јована\Music\Desktop\Vizuelno\Memory\Memory\obj\x86\Debug\Memory.pdb
+C:\Users\Јована\Music\Desktop\Vizuelno\Memory\Memory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Јована\Music\Desktop\Vizuelno\Memory\Memory\obj\x86\Debug\Memory.Form1.resources
+C:\Users\Јована\Music\Desktop\Vizuelno\Memory\Memory\obj\x86\Debug\Memory.Properties.Resources.resources
+C:\Users\Јована\Music\Desktop\Vizuelno\Memory\Memory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Јована\Music\Desktop\Vizuelno\Memory\Memory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Јована\Music\Desktop\Vizuelno\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\Јована\Music\Desktop\Vizuelno\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\User\Desktop\FINKI\VP\seminarska\Memory\Memory\obj\x86\Debug\Memory.exe
+C:\Users\User\Desktop\FINKI\VP\seminarska\Memory\Memory\obj\x86\Debug\Memory.pdb
+C:\Users\User\Desktop\FINKI\VP\seminarska\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\User\Desktop\FINKI\VP\seminarska\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\User\Desktop\FINKI\VP\seminarska\Memory\Memory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\FINKI\VP\seminarska\Memory\Memory\obj\x86\Debug\Memory.Form1.resources
+C:\Users\User\Desktop\FINKI\VP\seminarska\Memory\Memory\obj\x86\Debug\Memory.Properties.Resources.resources
+C:\Users\User\Desktop\FINKI\VP\seminarska\Memory\Memory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\FINKI\VP\seminarska\Memory\Memory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Јована\Music\Desktop\Memory\Memory\obj\x86\Debug\Memory.exe
+C:\Users\Јована\Music\Desktop\Memory\Memory\obj\x86\Debug\Memory.pdb
+C:\Users\Јована\Music\Desktop\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\Јована\Music\Desktop\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\Јована\Music\Desktop\Memory\Memory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Јована\Music\Desktop\Memory\Memory\obj\x86\Debug\Memory.Form1.resources
+C:\Users\Јована\Music\Desktop\Memory\Memory\obj\x86\Debug\Memory.Properties.Resources.resources
+C:\Users\Јована\Music\Desktop\Memory\Memory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Јована\Music\Desktop\Memory\Memory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dushko\Downloads\Memory\Memory\Memory\obj\x86\Debug\Memory.exe
+C:\Users\Dushko\Downloads\Memory\Memory\Memory\obj\x86\Debug\Memory.pdb
+C:\Users\Dushko\Downloads\Memory\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\Dushko\Downloads\Memory\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\Dushko\Downloads\Memory\Memory\Memory\obj\x86\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\Dushko\Downloads\Memory\Memory\Memory\obj\x86\Debug\Memory.Form1.resources
+C:\Users\Dushko\Downloads\Memory\Memory\Memory\obj\x86\Debug\Memory.Properties.Resources.resources
+C:\Users\Dushko\Downloads\Memory\Memory\Memory\obj\x86\Debug\Memory.csproj.GenerateResource.Cache
+D:\Memory\Memory\obj\x86\Debug\Memory.exe
+D:\Memory\Memory\obj\x86\Debug\Memory.pdb
+D:\Memory\Memory\bin\Debug\Memory.exe
+D:\Memory\Memory\bin\Debug\Memory.pdb
+D:\Memory\Memory\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Memory\Memory\obj\x86\Debug\Memory.Form1.resources
+D:\Memory\Memory\obj\x86\Debug\Memory.Properties.Resources.resources
+D:\Memory\Memory\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Memory\Memory\obj\x86\Debug\GenerateResource.write.1.tlog
